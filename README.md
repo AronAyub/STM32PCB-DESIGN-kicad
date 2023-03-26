@@ -10,7 +10,16 @@ Steps:
 2. Load the component and start by configuring the power section.
 
 ## Power Section Design
+- This involves Filtering VCC power
+- Separating Analog and Digital power.
+- The correct grounding
+
 
 ![power](https://user-images.githubusercontent.com/55284959/227529885-225649b5-639e-46bf-8c0d-83da0afab5b8.png)
+
+## Booting Circuit
+- This involves right configurations to the BOOT pin.
+![bootig circit](https://user-images.githubusercontent.com/55284959/227792287-02d3711d-ed99-4179-b94b-123ae421c8e9.png)
+
 
 
