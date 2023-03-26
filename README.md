@@ -25,6 +25,7 @@ Steps:
 - In this section you learn how to use STM32BubeIDE and how to configure pins in it
 - This is the interface of STM32VubeIDE
 ![st32 pin assignment](https://user-images.githubusercontent.com/55284959/227793444-6ea098fb-3da8-4fce-8195-56b7fb9d963a.png)
+- In STM32CubeIDE  we are configuring all pins assignments.\
 
 
 
