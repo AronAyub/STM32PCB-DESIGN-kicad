@@ -27,5 +27,23 @@ Steps:
 ![st32 pin assignment](https://user-images.githubusercontent.com/55284959/227793444-6ea098fb-3da8-4fce-8195-56b7fb9d963a.png)
 - In STM32CubeIDE  we are configuring all pins assignments.\
 
+## Complete Pin Integration.
+- To understand step-wise why these values have been selected, this is well explained.
+
+![Interface connected](https://user-images.githubusercontent.com/55284959/227796923-d08df17c-bed7-4a31-8114-57530d352165.png)
+
+
+## Power Circuit Integration
+- to understand how this is done, it is explained as well
+![WITH PWRCT](https://user-images.githubusercontent.com/55284959/227797394-b4c5fcc8-6f3d-4862-88ce-3a9eb8ea48a8.png)
+
+## Adding more periferals and pin extensions
+![interface config](https://user-images.githubusercontent.com/55284959/227797578-0ceeebe0-02f7-40e9-9dea-04f5be188818.png)
+
+
+## Annotate your schematic to assign each component a number
+
+## ASsign footprint
+
 
 
