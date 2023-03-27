@@ -32,6 +32,7 @@ Steps:
 
 ![Interface connected](https://user-images.githubusercontent.com/55284959/227796923-d08df17c-bed7-4a31-8114-57530d352165.png)
 
+![final pin mapp](https://user-images.githubusercontent.com/55284959/227798626-590bab36-c62a-4009-a739-b1afdccc5ad8.png)
 
 ## Power Circuit Integration
 - to understand how this is done, it is explained as well
