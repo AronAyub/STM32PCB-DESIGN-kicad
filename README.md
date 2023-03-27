@@ -43,6 +43,12 @@ Steps:
 
 
 ## Annotate your schematic to assign each component a number
+- can manually alocate or use Kicad tool to do it
+## Check for Electrical Rules
+- Power flag - is associated with defining power source, solve by using a power flag -let kicad know it is a power source.
+![check e rules](https://user-images.githubusercontent.com/55284959/227940048-6da257ca-e85f-4477-a1a9-3c6b57ebda1d.png)
+
+
 
 ## ASsign footprint
 
