@@ -1,5 +1,8 @@
 # STM32PCB DESIGN kicad
- Design BluePill using Kicad
+ - Design STM32 Based PCBs using the lattest Kicad version
+ 
+ - Looking forward to learn more about PCB and IoT Products Design, contact me. 
+
  - This is just summary approach, this course is availlable at a cheap price for your learning.
 
 
