@@ -48,9 +48,10 @@ Steps:
 - Power flag - is associated with defining power source, solve by using a power flag -let kicad know it is a power source.
 ![check e rules](https://user-images.githubusercontent.com/55284959/227940048-6da257ca-e85f-4477-a1a9-3c6b57ebda1d.png)
 
-
-
 ## ASsign footprint
-
+- Each componet have to be associated with a footprint
+- Can choose to create your onw
+- can opt to use default footprints
+- If no 3D models for the footprint, there is a wasy to create them.
 
 
