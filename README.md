@@ -48,10 +48,27 @@ Steps:
 - Power flag - is associated with defining power source, solve by using a power flag -let kicad know it is a power source.
 ![check e rules](https://user-images.githubusercontent.com/55284959/227940048-6da257ca-e85f-4477-a1a9-3c6b57ebda1d.png)
 
-## ASsign footprint
+## Assign footprint
 - Each componet have to be associated with a footprint
 - Can choose to create your onw
 - can opt to use default footprints
 - If no 3D models for the footprint, there is a wasy to create them.
 
+## Organize and arrange components in PCB Layout
+-  This depends on Signal integrity 
 
+## Route your PCB
+- this requires some keen techniques. 
+<img width="951" alt="routing " src="https://user-images.githubusercontent.com/55284959/228350000-63c5604f-59ad-4927-9a5f-8268cad67c31.png">
+
+
+## Final View
+- 3D view can help in this 
+<img width="923" alt="3D" src="https://user-images.githubusercontent.com/55284959/228350573-650d0386-40f5-415a-99c7-f0faad13c7f7.png">
+
+## Generate Output for Fabrication 
+- final stage to fabricate your PCB design
+- generate gerber files 
+- Suggested manufacturers .
+
+**To learn this step_Wise How to Design your IoT PCB boards, from basics, to intermediate and advanced contanct me**
